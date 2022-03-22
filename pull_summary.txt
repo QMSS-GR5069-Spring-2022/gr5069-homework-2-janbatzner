@@ -1,0 +1,5 @@
+Five Pull Requests for Improving the Structure of the Project:
+01: delete the files with .html extension that are not appropriate to work on
+
+
+Seven Pull Requests for Improving the Coding Etiquette:
