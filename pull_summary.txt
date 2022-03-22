@@ -1,5 +1,15 @@
 Five Pull Requests for Improving the Structure of the Project:
-01: delete the files with .html extension that are not appropriate to work on
-
+01: create the text summary for seperating the different purpose of PR， deleted the files with .html extension that are not appropriate to work on
+02: add data folder
+03： add README.md
+04: delete irrelevant files
+05: add .gitignore file
 
 Seven Pull Requests for Improving the Coding Etiquette:
+01: Change into relative path
+02: Add space in Markdown
+03: Change file name
+04: Add comment on the code
+05: Add markdown
+06: Remove redundant code
+07: Tune Parameter
